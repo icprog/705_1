@@ -1,0 +1,5 @@
+---- arrow_0 Matches (4 in 2 files) ----
+Menu_1_Idle.c (bsp\stm32f40x_car\applications\lcd):static unsigned char	arrow_0[] = {
+Menu_1_Idle.c (bsp\stm32f40x_car\applications\lcd):	{ 35, 32, arrow_0	},
+Menu_1_Idle.c.REMOTE.c (bsp\stm32f40x_car\applications\lcd):static unsigned char	arrow_0[] = {
+Menu_1_Idle.c.REMOTE.c (bsp\stm32f40x_car\applications\lcd):	{ 35, 32, arrow_0	},
